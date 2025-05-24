@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <h1 align="center">Hi 👋, I'm Ankit</h1>
 <h3 align="center">Tech Enthusiast | Full-Stack Developer | Entrepreneur | Trader</h3>
